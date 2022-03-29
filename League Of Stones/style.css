@@ -1,0 +1,28 @@
+/*@import "test.sass" ;*/
+
+.container{
+    width: 100% !important;
+    /* height: 50%; */
+    max-width: none !important;
+    max-height: 100%;
+  
+}
+.bas{
+    border-top: solid;
+    border-color: black;
+    margin-top: 2% !important   ;
+}
+
+.my-img{
+    max-width: 300px !important;
+    margin-top: 1%;
+}
+
+.profile-card{
+    width: 7% !important;
+   
+}
+
+.container2{
+    height: 40%;
+}
